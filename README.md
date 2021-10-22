@@ -4,7 +4,7 @@
 
 Use these links to learn more about me.
 
-- _Life_
+-[ _Life_](https://github.com/gjdb33/life.git)
 - _Hobbies_
 - _Coding Sample_
 - _After College_
