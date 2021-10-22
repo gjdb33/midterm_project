@@ -1,4 +1,4 @@
-# midterm_project
+# README
 
 - Hello, my name is Geno Dutzy, I am an IT major at the **University of Missouri-Columbia**.
 
